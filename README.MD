@@ -1,6 +1,6 @@
 # SetCompressData
 
-一个纯 Node.js 命令行工具，用来批量设置或移除 Cocos `.png.meta` 文件中的压缩标记。
+一个纯 Node.js 命令行工具，用来批量设置或移除 Creator `.png.meta` 文件中的压缩标记。
 
 ## 环境要求
 
